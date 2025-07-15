@@ -1,6 +1,6 @@
 ![Kyber Vision Mobile Logo](./assets/images/kyberVisionLogo01.png)
 
-#### v 0.16.0 ** _Build_ **
+#### v 0.16.3 ** _Build_ **
 
 ## .env
 
